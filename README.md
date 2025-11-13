@@ -44,15 +44,7 @@ A generic BST-powered inventory manager that processes transactions and generate
 
 ### 🔹 Car Comparison App  
 A Next.js project that lets users save favorites and compare multiple cars side-by-side.
-
----
-
-## 📈 GitHub Stats
-
-![Shreya's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
-
+[View Repository](https://github.com/shreyaBalaji1/HackUTD-Project)
 ---
 
 ## 📫 Connect With Me
