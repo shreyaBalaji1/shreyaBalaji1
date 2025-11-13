@@ -42,7 +42,7 @@ Research project predicting SOH and RUL using CALCE battery data.
 ### 🔹 Redbox Inventory System (CS2336 Project)  
 A generic BST-powered inventory manager that processes transactions and generates reports.
 
-### 🔹 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shreyaBalaji1&repo=HackUTD-Project)](https://github.com/shreyaBalaji1/HackUTD-Project)
+### 🔹 [Car Comparison App](https://github.com/shreyaBalaji1/HackUTD-Project)
 
 A Next.js project that lets users save favorites and compare multiple cars side-by-side.
 
