@@ -39,7 +39,7 @@ A full-stack health tracking app with interactive charts and daily updates.
 **LSTM, CNN, Transformer Models**  
 Research project predicting SOH and RUL using CALCE battery data.
 
-### 🔹 [Reading Huddle Project](CS2336 Project](https://github.com/UTDallasEPICS/Reading-MLK)  
+### 🔹 [Reading Huddle Project](https://github.com/UTDallasEPICS/Reading-MLK)  
 A generic BST-powered inventory manager that processes transactions and generates reports.
 
 ### 🔹 [Car Comparison App](https://github.com/shreyaBalaji1/HackUTD-Project)
