@@ -40,7 +40,7 @@ A full-stack health tracking app with interactive charts and daily updates.
 Research project predicting SOH and RUL using CALCE battery data.
 
 ### 🔹 [Reading Huddle Project](https://github.com/UTDallasEPICS/Reading-MLK)  
-A generic BST-powered inventory manager that processes transactions and generates reports.
+A Vue.js-based web application designed for the Friends of MLK Reading Huddle program that provides families, parents, faculty, and administrators with interactive literacy resources, structured courses, and data-driven tools to support children’s learning and track educational progress.
 
 ### 🔹 [Car Comparison App](https://github.com/shreyaBalaji1/HackUTD-Project)
 
