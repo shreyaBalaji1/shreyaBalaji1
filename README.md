@@ -24,22 +24,17 @@
 `React` • `Node.js` • `Express` • `Next.js` • `NumPy` • `Pandas` • `PyTorch`
 
 **Tools:**  
-`Git/GitHub` • `MongoDB` • `Linux` • `VS Code` • `Figma`  
-`Postman` • `Shell Scripting` • `MIPS Assembly`
+`Git/GitHub` • `Linux` • `VS Code` • `Figma` • `Shell Scripting` • `MIPS Assembly`
 
 ---
 
 ## ⭐ Featured Projects
 
-### 🔹 Personal Health Dashboard  
-**React + Node.js + MongoDB**  
-A full-stack health tracking app with interactive charts and daily updates.
-
-### 🔹 Physics-Informed ML for Battery Degradation  
+### 🔹 [Physics-Informed ML for Battery Degradation](https://github.com/shreyaBalaji1/Physics-Informed-ML-for-Battery-Degradation)  
 **LSTM, CNN, Transformer Models**  
 Research project predicting SOH and RUL using CALCE battery data.
 
-### 🔹 [Reading Huddle Project](https://github.com/UTDallasEPICS/Reading-MLK)  
+### 🔹 [Friends of MLK - Reading Huddle Project](https://github.com/UTDallasEPICS/Reading-MLK)  
 A Vue.js-based web application designed for the Friends of MLK Reading Huddle program that provides families, parents, faculty, and administrators with interactive literacy resources, structured courses, and data-driven tools to support children’s learning and track educational progress.
 
 ### 🔹 [Car Comparison App](https://github.com/shreyaBalaji1/HackUTD-Project)
@@ -49,7 +44,7 @@ A Next.js project that lets users save favorites and compare multiple cars side-
 ---
 
 ## 📫 Connect With Me
-**LinkedIn:** https://www.linkedin.com/in/  
-**Email:** your-email@example.com
+**LinkedIn:** https://www.linkedin.com/in/shreya-balaji-b168a1254/
+**Email:** shreyabalaji123@gmail.com
 
 Thanks for stopping by! 😊
