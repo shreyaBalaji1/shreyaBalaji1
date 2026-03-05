@@ -9,7 +9,6 @@
 
 ## 🚀 About Me
 - 🔍 Interested in ML for battery degradation,web app development, and systems programming  
-- 🎨 I also create conceptual dance-tech projects that mix storytelling, visuals, and choreography  
 - 📊 I enjoy solving real problems — from building inventory systems to analyzing AI themes in literature  
 - 💬 Ask me about full-stack apps, ML models (LSTM, CNN, Transformer), or creative project planning
 
