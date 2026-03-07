@@ -2,7 +2,7 @@
 
 🎓 Computer Science @ UTD 
 💻 Software Engineering • Machine Learning • Full-Stack Development • Cybersecurity
-🌱 Currently learning React, Node.js, Express, and MongoDB  
+  
 ✨ I love building creative, story-driven tech projects and exploring AI applications in real-world systems.
 
 ---
@@ -23,7 +23,7 @@
 `React` • `Node.js` • `Express` • `Next.js` • `NumPy` • `Pandas` • `PyTorch`
 
 **Tools:**  
-`Git/GitHub` • `Linux` • `VS Code` • `Figma` • `Shell Scripting` • `MIPS Assembly`
+`Git/GitHub` • `Linux` • `VS Code` •  • `MIPS Assembly`
 
 ---
 
