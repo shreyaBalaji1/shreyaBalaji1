@@ -1,33 +1,41 @@
 # Hi, I'm Shreya 👋
 
-🎓 Computer Science @ UTD 
-💻 Software Engineering • Machine Learning • Full-Stack Development • Cybersecurity
-  
-✨ I love building creative, story-driven tech projects and exploring AI applications in real-world systems.
+🎓 Computer Science @ UTD  
+💻 Software Engineering • Full-Stack Development • Cybersecurity  
+
+✨ I enjoy building scalable web applications and learning how secure systems are designed and implemented.
 
 ---
 
 ## 🚀 About Me
-- 🔍 Interested in ML for battery degradation,web app development, and systems programming  
-- 📊 I enjoy solving real problems — from building inventory systems to analyzing AI themes in literature  
-- 💬 Ask me about full-stack apps, ML models (LSTM, CNN, Transformer), or creative project planning
+- 🔐 Currently learning cybersecurity fundamentals through the Google Cybersecurity Certificate  
+- 🌐 Interested in full-stack development, secure backend systems, and RESTful API design  
+- 🛠️ I like building real-world applications and improving them with better structure, performance, and security practices  
+- 💬 Ask me about React/Angular apps, REST APIs, or beginner cybersecurity concepts  
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
-**Languages:**  
+### **Languages**
 `Java` • `Python` • `C/C++` • `JavaScript` • `TypeScript` • `SQL` • `HTML/CSS`
 
-**Frameworks & Libraries:**  
-`React` • `Node.js` • `Express` • `Next.js` • `NumPy` • `Pandas` • `PyTorch`
+### **Frameworks & Libraries**
+`React` • `Angular` • `Node.js` • `Express` • `Next.js` • `.NET Web API`
 
-**Tools:**  
-`Git/GitHub` • `Linux` • `VS Code` •  • `MIPS Assembly`
+### **Technologies**
+`REST APIs` • `MySQL` • `Entity Framework` • `Role-Based Access Control (RBAC)`
+
+### **Tools**
+`Git/GitHub` • `Linux` • `VS Code` 
 
 ---
 
 ## ⭐ Featured Projects
+
+### 🔹 [MediScan](https://github.com/shreyaBalaji1/Physics-Informed-ML-for-Battery-Degradation)  
+**Angular • .NET Web API • SQL • REST APIs**  
+Built a full-stack application that integrates the openFDA API to fetch drug data, with a .NET backend and SQL database for storing user favorites and notes.
 
 ### 🔹 [Physics-Informed ML for Battery Degradation](https://github.com/shreyaBalaji1/Physics-Informed-ML-for-Battery-Degradation)  
 **LSTM, CNN, Transformer Models**  
