@@ -1,7 +1,7 @@
 # Hi, I'm Shreya 👋
 
 🎓 Computer Science @ The University of Texas at Dallas (Expected Dec. 2027)  
-💻 Software Engineering • Distributed Systems • Backend Development • Cloud Computing
+💻 Software Engineering • Distributed Systems • Backend Development 
 
 ✨ I enjoy building scalable backend systems, distributed applications, and cloud-native software that prioritize reliability, performance, and maintainability.
 
