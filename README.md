@@ -1,57 +1,84 @@
 # Hi, I'm Shreya 👋
 
-🎓 Computer Science @ UTD  
-💻 Software Engineering • Full-Stack Development • Cybersecurity  
+🎓 Computer Science @ The University of Texas at Dallas (Expected Dec. 2027)  
+💻 Software Engineering • Distributed Systems • Backend Development • Cloud Computing
 
-✨ I enjoy building scalable web applications and learning how secure systems are designed and implemented.
+✨ I enjoy building scalable backend systems, distributed applications, and cloud-native software that prioritize reliability, performance, and maintainability.
 
 ---
 
 ## 🚀 About Me
-- 🔐 Currently learning cybersecurity fundamentals through the Google Cybersecurity Certificate  
-- 🌐 Interested in full-stack development, secure backend systems, and RESTful API design  
-- 🛠️ I like building real-world applications and improving them with better structure, performance, and security practices  
-- 💬 Ask me about React/Angular apps, REST APIs, or beginner cybersecurity concepts  
+
+- ☁️ AWS Certified Solutions Architect – Associate
+- 💻 Interested in backend engineering, distributed systems, and cloud infrastructure
+- 🏗️ Passionate about designing scalable APIs, event-driven systems, and high-performance software
+- 📈 I enjoy optimizing system performance, improving reliability, and learning modern software architecture
+- 🌱 Currently exploring distributed systems, cloud infrastructure, and system design
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
 ### **Languages**
-`Java` • `Python` • `C/C++` • `JavaScript` • `TypeScript` • `SQL` • `HTML/CSS`
+`Java` • `Python` • `C++` • `C#` • `JavaScript` • `TypeScript` • `SQL`
 
-### **Frameworks & Libraries**
-`React` • `Angular` • `Node.js` • `Express` • `Next.js` • `.NET Web API`
+### **Backend**
+`Spring Boot` • `.NET Web API` • `Node.js` • `REST APIs`
 
-### **Technologies**
-`REST APIs` • `MySQL` • `Entity Framework` • `Role-Based Access Control (RBAC)`
+### **Frontend**
+`React` • `Angular`
+
+### **Databases**
+`PostgreSQL` • `MySQL` • `Redis`
+
+### **Cloud & Infrastructure**
+`AWS` • `Kafka` • `Docker`
 
 ### **Tools**
-`Git/GitHub` • `Linux` • `VS Code` 
+`Git/GitHub` • `Linux` • `JIRA` • `VS Code`
 
 ---
 
 ## ⭐ Featured Projects
 
-### 🔹 [MediScan](https://github.com/shreyaBalaji1/Physics-Informed-ML-for-Battery-Degradation)  
-**Angular • .NET Web API • SQL • REST APIs**  
-Built a full-stack application that integrates the openFDA API to fetch drug data, with a .NET backend and SQL database for storing user favorites and notes.
+### 🔹 [Distributed API Observability Platform](https://github.com/shreyaBalaji1/api-observability-platform)
 
-### 🔹 [Physics-Informed ML for Battery Degradation](https://github.com/shreyaBalaji1/Physics-Informed-ML-for-Battery-Degradation)  
-**LSTM, CNN, Transformer Models**  
-Research project predicting SOH and RUL using CALCE battery data.
+**Spring Boot • Kafka • PostgreSQL • Redis • Docker • React**
 
-### 🔹 [Friends of MLK - Reading Huddle Project](https://github.com/UTDallasEPICS/Reading-MLK)  
-A Vue.js-based web application designed for the Friends of MLK Reading Huddle program that provides families, parents, faculty, and administrators with interactive literacy resources, structured courses, and data-driven tools to support children’s learning and track educational progress.
+Built a distributed observability platform that monitors five Spring Boot microservices by collecting latency, traffic, error-rate, and health metrics in real time. Designed an asynchronous Kafka event pipeline, implemented Redis caching, and optimized PostgreSQL queries to reduce dashboard latency from **46 ms to 10 ms** while processing **6,230+ simulated API requests**.
 
-### 🔹 [Car Comparison App](https://github.com/shreyaBalaji1/HackUTD-Project)
+---
 
-A Next.js project that lets users save favorites and compare multiple cars side-by-side.
+### 🔹 [MediScan](https://github.com/shreyaBalaji1/MediScan)
+
+**Angular • .NET Web API • SQL • Entity Framework**
+
+Developed a full-stack healthcare application integrating the openFDA API to retrieve medication information. Built RESTful APIs, SQL-backed CRUD functionality, and scalable data models for medication tracking and user-generated notes.
+
+---
+
+### 🔹 [Friends of MLK – Reading Huddle Project](https://github.com/UTDallasEPICS/Reading-MLK)
+
+**Next.js • MySQL • REST APIs • RBAC**
+
+Developed backend APIs implementing role-based access control (RBAC) across multiple user roles. Designed relational database schemas and integrated backend services to securely manage user accounts and role-specific information.
+
+---
+
+## 📜 Certifications
+
+- AWS Certified Solutions Architect – Associate
+- AWS Certified Cloud Practitioner
 
 ---
 
 ## 📫 Connect With Me
-**LinkedIn:** https://www.linkedin.com/in/shreya-balaji-b168a1254/
-**Email:** shreyabalaji123@gmail.com
 
-Thanks for stopping by! 😊
+**LinkedIn:**  
+https://www.linkedin.com/in/shreya-balaji-b168a1254/
+
+**Email:**  
+shreyabalaji123@gmail.com
+
+Thanks for stopping by! Feel free to explore my repositories or connect with me!
+```
